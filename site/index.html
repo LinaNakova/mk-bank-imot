@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="mk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Банкарски имот · продажба</title>
+<meta name="description" content="Сите недвижности од банките во Северна Македонија наменети за продажба, на едно место.">
+
+<!-- PWA / iOS home-screen -->
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#0B5D51">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Имот">
+<link rel="apple-touch-icon" href="./icon-192.png">
+<link rel="icon" href="./icon-192.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="brand">
+    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <rect x="2.5" y="2.5" width="19" height="19" rx="2" stroke="#EAF3F0" stroke-width="1.6"/>
+      <path d="M6 15l4-5 3 3.5L16 9l2 6H6z" fill="#EAF3F0"/>
+      <circle cx="15.5" cy="7" r="1.6" fill="#EAF3F0"/>
+    </svg>
+    <div>
+      <h1>Банкарски имот</h1>
+      <div class="sub">РЕГИСТАР НА ИМОТ ОД БАНКИТЕ · МК</div>
+    </div>
+  </div>
+  <div class="stampline" id="stampline">
+    <span><b id="s-count">—</b> огласи</span>
+    <span><b id="s-banks">—</b> банки</span>
+    <span><b id="s-new">—</b> нови</span>
+    <span id="s-date"></span>
+  </div>
+</header>
+
+<div class="controls">
+  <input id="search" class="search" type="search" inputmode="search"
+         placeholder="Пребарувај по град, тип, банка…" autocomplete="off">
+  <div class="chiprow" id="banks"></div>
+  <div class="chiprow" id="types"></div>
+</div>
+
+<div class="meta" id="resultmeta"></div>
+
+<main id="grid" class="grid" aria-live="polite">
+  <div class="loading">Се вчитуваат огласите <span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+</main>
+
+<footer>
+  Податоците се преземаат автоматски од официјалните страници на банките секој понеделник.<br>
+  Извор: НБРМ листа на банки · проверете го оригиналниот оглас пред секаква одлука.<br>
+  <span id="foot-updated"></span>
+</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>

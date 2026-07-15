@@ -1,0 +1,158 @@
+/* ============================================================
+   Банкарски имот — land-registry identity
+   paper ledger · deep institutional teal · oxide-red stamp · mono data
+   ============================================================ */
+:root {
+  --paper:   #F1F4F2;
+  --surface: #FFFFFF;
+  --ink:     #13201C;
+  --muted:   #5C6B66;
+  --line:    #D8E0DC;
+  --teal:    #0B5D51;
+  --teal-ink:#083F37;
+  --teal-soft:#E4EFEB;
+  --stamp:   #B23A2E;   /* official stamp ink — used ONLY for NEW */
+  --stamp-soft:#F6E4E1;
+  --radius: 12px;
+  --shadow: 0 1px 2px rgba(19,32,28,.06), 0 6px 20px rgba(19,32,28,.05);
+  --mono: "Space Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --disp: "Space Grotesk", var(--sans);
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: var(--sans);
+  color: var(--ink);
+  background:
+    linear-gradient(var(--paper), var(--paper)),
+    repeating-linear-gradient(0deg, transparent 0 39px, rgba(11,93,81,.04) 39px 40px);
+  background-attachment: fixed;
+  line-height: 1.45;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+a { color: var(--teal); text-decoration: none; }
+
+/* ---------- header ---------- */
+.masthead {
+  position: sticky; top: 0; z-index: 50;
+  background: var(--teal);
+  color: #EAF3F0;
+  padding: calc(env(safe-area-inset-top) + 14px) 18px 14px;
+  border-bottom: 3px solid var(--teal-ink);
+}
+.brand { display: flex; align-items: center; gap: 10px; }
+.brand svg { flex: 0 0 auto; }
+.brand h1 {
+  font-family: var(--disp);
+  font-weight: 700; font-size: 19px; letter-spacing: .04em;
+  margin: 0; text-transform: uppercase;
+}
+.brand .sub {
+  font-family: var(--mono); font-size: 10.5px; letter-spacing: .08em;
+  color: #A9CEC5; margin-top: 1px;
+}
+.stampline {
+  margin-top: 12px; display: flex; gap: 14px; flex-wrap: wrap;
+  font-family: var(--mono); font-size: 11px; color: #BFDDD5;
+}
+.stampline b { color: #fff; font-weight: 700; }
+
+/* ---------- controls ---------- */
+.controls { padding: 14px 14px 4px; }
+.search {
+  width: 100%; padding: 13px 14px; font-size: 16px; font-family: var(--sans);
+  border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--surface); color: var(--ink);
+  box-shadow: var(--shadow);
+}
+.search::placeholder { color: #9AA7A2; }
+.search:focus { outline: 2px solid var(--teal); outline-offset: 1px; }
+
+.chiprow {
+  display: flex; gap: 8px; overflow-x: auto; padding: 12px 2px 4px;
+  scrollbar-width: none; -webkit-overflow-scrolling: touch;
+}
+.chiprow::-webkit-scrollbar { display: none; }
+.chip {
+  flex: 0 0 auto; border: 1px solid var(--line); background: var(--surface);
+  color: var(--muted); font-size: 13px; font-weight: 500;
+  padding: 7px 13px; border-radius: 999px; cursor: pointer; white-space: nowrap;
+  font-family: var(--sans); transition: all .12s;
+}
+.chip[aria-pressed="true"] {
+  background: var(--teal); border-color: var(--teal); color: #fff;
+}
+.chip.stamp[aria-pressed="true"] { background: var(--stamp); border-color: var(--stamp); }
+
+.meta { padding: 8px 16px 2px; font-family: var(--mono); font-size: 11.5px; color: var(--muted); }
+
+/* ---------- listing grid ---------- */
+.grid { padding: 10px 14px 32px; display: grid; gap: 12px; }
+@media (min-width: 620px) { .grid { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 960px) { .grid { grid-template-columns: 1fr 1fr 1fr; } }
+
+.card {
+  position: relative; background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius); padding: 15px 15px 14px; box-shadow: var(--shadow);
+  overflow: hidden;
+}
+/* signature: cadastral parcel-corner tick */
+.card::before {
+  content: ""; position: absolute; top: 10px; right: 10px; width: 14px; height: 14px;
+  border-top: 2px solid var(--line); border-right: 2px solid var(--line);
+}
+.card .banktag {
+  display: inline-block; font-family: var(--mono); font-size: 10px; letter-spacing: .06em;
+  text-transform: uppercase; padding: 3px 8px; border-radius: 5px;
+  background: var(--teal-soft); color: var(--teal-ink); font-weight: 700;
+}
+.card h2 {
+  font-family: var(--disp); font-weight: 600; font-size: 16.5px; line-height: 1.25;
+  margin: 10px 0 2px; padding-right: 18px;
+}
+.card .loc { font-size: 13.5px; color: var(--muted); display: flex; align-items: center; gap: 5px; }
+.card .loc svg { flex: 0 0 auto; opacity: .7; }
+
+.data { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0 4px; }
+.datum {
+  font-family: var(--mono); font-size: 11.5px; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--line);
+  padding: 4px 8px; border-radius: 6px;
+}
+.datum .k { color: var(--muted); }
+
+.card .open {
+  display: inline-flex; align-items: center; gap: 6px; margin-top: 10px;
+  font-family: var(--sans); font-weight: 600; font-size: 13.5px; color: var(--teal);
+}
+.card .open:active { opacity: .6; }
+
+/* NEW registry stamp — the one bold element */
+.newstamp {
+  position: absolute; top: 12px; right: -30px; transform: rotate(8deg);
+  background: var(--stamp); color: #fff; font-family: var(--mono); font-weight: 700;
+  font-size: 10px; letter-spacing: .12em; padding: 3px 34px; box-shadow: 0 1px 4px rgba(178,58,46,.4);
+}
+.card.is-new::before { border-color: var(--stamp-soft); }
+
+/* ---------- states ---------- */
+.empty, .loading {
+  padding: 60px 24px; text-align: center; color: var(--muted); font-size: 15px;
+}
+.empty b { color: var(--ink); font-family: var(--disp); display: block; margin-bottom: 6px; font-size: 17px; }
+.loading .dot { display:inline-block; width:8px;height:8px;border-radius:50%;background:var(--teal);
+  animation: pulse 1s infinite ease-in-out; margin: 0 2px; }
+.loading .dot:nth-child(2){animation-delay:.15s}.loading .dot:nth-child(3){animation-delay:.3s}
+@keyframes pulse { 0%,100%{opacity:.25;transform:scale(.8)} 50%{opacity:1;transform:scale(1)} }
+
+footer {
+  padding: 22px 18px calc(env(safe-area-inset-bottom) + 30px);
+  font-family: var(--mono); font-size: 11px; color: var(--muted); text-align: center;
+  border-top: 1px solid var(--line); background: var(--surface);
+}
+footer a { text-decoration: underline; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
