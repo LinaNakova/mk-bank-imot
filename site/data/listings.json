@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-07-15T09:16:34Z",
- "count": 101,
- "new_count": 101,
+ "generated_at": "2026-07-20T09:28:55Z",
+ "count": 103,
+ "new_count": 103,
  "banks": {
   "Alta": 1,
   "Halkbank": 40,
   "Komercijalna": 26,
   "ProCredit": 1,
-  "SRB": 6,
+  "SRB": 8,
   "Sparkasse": 6,
   "Stopanska": 1,
   "TTK": 4,
@@ -29,7 +29,7 @@
    "source_url": "https://altabanka.com.mk/prodazba-na-imot.nspx",
    "pdf_url": "https://altabanka.com.mk/content/pdf/prevzemenimot/2026/Оглас  за продажба на сопствен и преземен недвижен имот и преземени подвижни предмети  24.4.2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -46,7 +46,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Svilare.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -63,7 +63,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Garazno_mesto_Skopje.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -80,7 +80,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Deloven_prostor_Aerodrom_Skopje_broj_2.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -97,7 +97,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_MakedonskiBrod.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -114,7 +114,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_Saraj.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -131,7 +131,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Vikendica_Bitola.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -148,7 +148,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Prodazba_vikendica_Bitola_2.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -165,7 +165,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Halk_Kuka_Zlokukani_Skopje.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -182,7 +182,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Strumica_Marsal_Tito_1.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -199,7 +199,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Deloven_Prostor_Strumica.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -216,7 +216,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Deloven_Prostor_Strumica_2.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -233,7 +233,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2022/Oglasi/Assets/deloven_prostor_shara_milk_kumanovo_2.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -250,7 +250,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_DelovenProstor_Mavrovka.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -267,7 +267,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Prodazba_Deloven_Prostor_GTC.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -284,7 +284,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Prodazba_Delovni_Prostorii_MBrod.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -301,7 +301,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Zemjodelsko_zemjiste_Pintija_Kit_Horeca.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -318,7 +318,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2022/Oglasi/Assets/Prodazba_Zemjishte_Gjorche_Petrov_6.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -335,7 +335,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_AvtoK_Zemjishte.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -352,7 +352,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Halk_Zemjishte_Kondovo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -369,7 +369,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_ZemjodelskoZemjishte_Negotino.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -386,7 +386,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Prodazba_Stajkovci_Cresevo_zemjishte.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -403,7 +403,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2023/Oglasi/Assets/Halk_Kukja_Zemjiste_Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -420,7 +420,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Lepenec_Zemjiste.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -437,7 +437,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Niva_Kumanovo_Rezanovce.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -454,7 +454,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Prodazba_Kukja_Dracevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -471,7 +471,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Kukja_Butel.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -488,7 +488,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2023/Oglasi/Assets/Halk_Kukja_Krushopek.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -505,7 +505,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Kukja_Pirava.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -522,7 +522,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2023/Oglasi/Assets/Halk_Kukja_Negotino.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -539,7 +539,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Halk_Kisela_Voda.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -556,7 +556,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_Ohrid.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -573,7 +573,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_Tetovo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -590,7 +590,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halkbank_Chair_2.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -607,7 +607,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2022/Oglasi/Assets/Komora_za_zamrznuvanje_Faraon_3.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -624,7 +624,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Masini_Oprema.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -641,7 +641,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/AD_Rezervoari.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -658,7 +658,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Tenda_Anatolija.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -675,7 +675,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Hidraulicna_Presa.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -692,7 +692,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Vozila.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -709,7 +709,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Vozila_2.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -726,7 +726,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -743,7 +743,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -760,7 +760,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -777,7 +777,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -794,7 +794,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -811,7 +811,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -828,7 +828,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -845,7 +845,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -862,7 +862,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -879,7 +879,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -896,7 +896,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -913,7 +913,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -930,7 +930,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -947,7 +947,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -964,7 +964,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -981,7 +981,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -998,7 +998,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1015,7 +1015,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1032,7 +1032,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1049,7 +1049,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1066,7 +1066,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1083,7 +1083,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1100,7 +1100,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1117,7 +1117,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1134,7 +1134,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1151,7 +1151,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1168,7 +1168,7 @@
    "source_url": "https://www.pcb.mk/prodazba-na-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1185,7 +1185,24 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Deloven_objekt_vo_Tetovo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
+   "is_new": true
+  },
+  {
+   "id": "e2d836ba0c1d20a2",
+   "bank": "SRB",
+   "title": "Deloven prostor vo Struga",
+   "type": "Деловен простор",
+   "location": "Struga",
+   "area_m2": 61.0,
+   "price": 3866734,
+   "currency": "MKD",
+   "deed": "97164",
+   "description": null,
+   "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
+   "pdf_url": "https://www.srb.mk/file/prodazba/Deloven prostor vo Struga.pdf",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1202,7 +1219,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/IP.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1219,7 +1236,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Imoti za prodazba.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1236,7 +1253,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Semejna_kukja_vo_Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1253,7 +1270,24 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Semejna kukja vo Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
+   "is_new": true
+  },
+  {
+   "id": "a74dd08c2a14eb8b",
+   "bank": "SRB",
+   "title": "Stan vo Skopje",
+   "type": "Стан",
+   "location": "Skopje",
+   "area_m2": 73.0,
+   "price": 9000000,
+   "currency": "MKD",
+   "deed": null,
+   "description": null,
+   "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
+   "pdf_url": "https://www.srb.mk/file/prodazba/Stan vo Skopje.pdf",
+   "first_seen": "2026-07-20",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1270,7 +1304,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Stan_vo_Strumica_1.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1287,7 +1321,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-prostor-gazibaba-skopje.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1304,7 +1338,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-prostor-magacin-prilep.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1321,7 +1355,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-stanben-objekt-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1338,7 +1372,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/zemjiste-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1355,7 +1389,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/kuka-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1372,7 +1406,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/restoran-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1389,7 +1423,7 @@
    "source_url": "https://www.stb.com.mk/ostanati-sodrzini/prodazba-na-imot/prodazba-na-imot-od-khipoteka/",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1406,7 +1440,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/20.5.2026_продажба_преку_извршител.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1423,7 +1457,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/Продажба_Јуни_2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1440,7 +1474,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/cms/Upload/Prodazba%20na%20imot/Продажба_Јуни_2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1457,7 +1491,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/закажана_продажба_Октомври%20_2025.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1474,7 +1508,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1491,7 +1525,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1508,7 +1542,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1525,7 +1559,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1542,7 +1576,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1559,7 +1593,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": "https://www.unibank.mk/content/downloads/documents/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE-%D0%97%D0%9F%D0%A3%D0%9F%D0%A1.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1576,7 +1610,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1593,7 +1627,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1610,7 +1644,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1627,7 +1661,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1644,7 +1678,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1661,7 +1695,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1678,7 +1712,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1695,7 +1729,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1712,7 +1746,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   },
   {
@@ -1729,7 +1763,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-15",
+   "last_seen": "2026-07-20",
    "is_new": true
   }
  ]
