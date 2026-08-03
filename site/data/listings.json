@@ -1,35 +1,35 @@
 {
- "generated_at": "2026-07-27T10:04:39Z",
- "count": 103,
+ "generated_at": "2026-08-03T09:59:46Z",
+ "count": 64,
  "new_count": 1,
  "banks": {
-  "TTK": 5,
+  "Halkbank": 1,
   "Alta": 1,
-  "Halkbank": 39,
-  "Komercijalna": 26,
+  "Komercijalna": 25,
   "ProCredit": 1,
   "SRB": 8,
   "Sparkasse": 6,
   "Stopanska": 1,
+  "TTK": 5,
   "Unibank": 12,
   "ccbank": 4
  },
  "listings": [
   {
-   "id": "bf66058c82e2a690",
-   "bank": "TTK",
-   "title": "Закажана продажба 6.8.2026 година",
-   "type": "Стан",
-   "location": "Ѓорче Петров",
-   "area_m2": 52.0,
-   "price": 161230,
-   "currency": "EUR",
+   "id": "b404d3991021dc09",
+   "bank": "Halkbank",
+   "title": "Продажба на имот — Halkbank",
+   "type": null,
+   "location": null,
+   "area_m2": null,
+   "price": null,
+   "currency": null,
    "deed": null,
    "description": null,
-   "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
-   "pdf_url": "https://ttk.com.mk/CMS/Upload/Prodazba%20na%20imot/Закажана_продажба_Август_2026.pdf",
-   "first_seen": "2026-07-27",
-   "last_seen": "2026-07-27",
+   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
+   "pdf_url": null,
+   "first_seen": "2026-08-03",
+   "last_seen": "2026-08-03",
    "is_new": true
   },
   {
@@ -46,670 +46,7 @@
    "source_url": "https://altabanka.com.mk/prodazba-na-imot.nspx",
    "pdf_url": "https://altabanka.com.mk/content/pdf/prevzemenimot/2026/Оглас  за продажба на сопствен и преземен недвижен имот и преземени подвижни предмети  24.4.2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "0ccd9e17397a30d7",
-   "bank": "Halkbank",
-   "title": "Куќа во Долно Свиларе и земјиште во Долно Свиларе",
-   "type": "Куќа",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Svilare.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "2cef731e249f40ec",
-   "bank": "Halkbank",
-   "title": "Недвижен имот - гаража",
-   "type": "Гаража",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Garazno_mesto_Skopje.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "5b770e753ca7a3ba",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – Деловен простор во населба Аеродром",
-   "type": "Деловен простор",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Deloven_prostor_Aerodrom_Skopje_broj_2.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "a97f80975e7b046b",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – Стан во Македонски Брод",
-   "type": "Стан",
-   "location": "Македонски Брод",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_MakedonskiBrod.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "2845d44c5a3f2de5",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – Стан во Сарај",
-   "type": "Стан",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_Saraj.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "913e2176e380b6f5",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – викендичка во Битола",
-   "type": "Викендица",
-   "location": "Битола",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Vikendica_Bitola.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "08b2cb11b4ed7532",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – викендичка во Битола",
-   "type": "Викендица",
-   "location": "Битола",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Prodazba_vikendica_Bitola_2.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "98cbe8ef1b58722a",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – дел од куќа и двор во Злокуќани-Скопје",
-   "type": "Куќа",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Halk_Kuka_Zlokukani_Skopje.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "6dae8c40406ba2d9",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – деловен објект во Струмица",
-   "type": "Деловен простор",
-   "location": "Струмица",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Deloven_Prostor_Strumica.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "e6cda11112c23246",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – деловен објект во Струмица",
-   "type": "Деловен простор",
-   "location": "Струмица",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Deloven_Prostor_Strumica_2.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "9da24c8d65251912",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – деловен објект и земјиште во Страцин",
-   "type": "Деловен простор",
-   "location": "Куманово",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2022/Oglasi/Assets/deloven_prostor_shara_milk_kumanovo_2.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "66fd5647a53d3168",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – деловен објект канцеларија во Скопје",
-   "type": "Деловен простор",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_DelovenProstor_Mavrovka.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "11c737e66b2a3649",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – деловен простор во ГТЦ-Скопје",
-   "type": "Деловен простор",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Prodazba_Deloven_Prostor_GTC.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "a43c62d12f0ad54d",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – деловен простор во Македонски Брод",
-   "type": "Деловен простор",
-   "location": "М. Брод",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Prodazba_Delovni_Prostorii_MBrod.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "69ee7f0301a18e1d",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште Пинтија - Скопје",
-   "type": "Земјиште",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Zemjodelsko_zemjiste_Pintija_Kit_Horeca.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "46e4a1fb0f56cc9a",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште во Ѓорче Петров",
-   "type": "Земјиште",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2022/Oglasi/Assets/Prodazba_Zemjishte_Gjorche_Petrov_6.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "4db0180074fd9443",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште во Автокоманда-Скопје",
-   "type": "Земјиште",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_AvtoK_Zemjishte.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "eb0841ae298ff25a",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште во Кондово",
-   "type": "Земјиште",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Halk_Zemjishte_Kondovo.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "6441e37040fc5d79",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште во Курија – Неготинско",
-   "type": "Земјиште",
-   "location": "Неготино",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_ZemjodelskoZemjishte_Negotino.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "9d2c6dfdb80bce72",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште во Црешево и Стајковци - Скопје",
-   "type": "Земјиште",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Prodazba_Stajkovci_Cresevo_zemjishte.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "ec78ac7d9ff8a020",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско земјиште и куќа во с. Марена и с. Сопот",
-   "type": "Куќа",
-   "location": "Кавадарци",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2023/Oglasi/Assets/Halk_Kukja_Zemjiste_Kavadarci.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "6be058dbbe6cbabb",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – земјоделско и градежно земјиште во Ѓорче Петров-Лепенец",
-   "type": "Земјиште",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Lepenec_Zemjiste.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "f431ae20e6be692c",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – идеален дел на земјиште во с. Режановце",
-   "type": "Земјиште",
-   "location": "Куманово",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Niva_Kumanovo_Rezanovce.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "e79c547e994cfccb",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – куќа во Драчево - Скопје",
-   "type": "Куќа",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Prodazba_Kukja_Dracevo.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "745e90ea28a463b8",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – куќа и двор во Шуто Оризари - Скопје",
-   "type": "Куќа",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Kukja_Butel.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "65e51cca3e5bd977",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – куќа и двор во с. Крушопек - Сарај",
-   "type": "Куќа",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2023/Oglasi/Assets/Halk_Kukja_Krushopek.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "aa2a410c552e3638",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – куќа со двор и земјоделско земјиште во Пирава",
-   "type": "Куќа",
-   "location": "Валандово",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Kukja_Pirava.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "360cf869de46623f",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – семејна куќа и двор во Неготино",
-   "type": "Куќа",
-   "location": "Неготино",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2023/Oglasi/Assets/Halk_Kukja_Negotino.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "3dac9ad4699a3106",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – стан во Кисела Вода",
-   "type": "Стан",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2025/Oglasi/Assets/Halk_Kisela_Voda.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "ad5ab72a3b4f4773",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – стан во Охрид",
-   "type": "Стан",
-   "location": "Охрид",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_Ohrid.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "f95dbc5128598b45",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – стан во Тетово",
-   "type": "Стан",
-   "location": "Тетово",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Stan_Tetovo.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "7f5f2fd4eaf79350",
-   "bank": "Halkbank",
-   "title": "Недвижен имот – стан во населба Чаир",
-   "type": "Стан",
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halkbank_Chair_2.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "1e14f5e049ad541d",
-   "bank": "Halkbank",
-   "title": "Подвижен имот – комора за замрзнување",
-   "type": null,
-   "location": "Струмица",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2022/Oglasi/Assets/Komora_za_zamrznuvanje_Faraon_3.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "f952c4b89c82eebb",
-   "bank": "Halkbank",
-   "title": "Подвижен имот – машини и опрема",
-   "type": null,
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Masini_Oprema.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "d834ef4153f11a06",
-   "bank": "Halkbank",
-   "title": "Подвижен имот – машини и опрема",
-   "type": null,
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/AD_Rezervoari.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "41e5f8dc439ed9ec",
-   "bank": "Halkbank",
-   "title": "Подвижен имот – тенда-пергола",
-   "type": null,
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2021/Oglasi/Assets/Prodazba_Tenda_Anatolija.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "962429aadedee83e",
-   "bank": "Halkbank",
-   "title": "Подвижен имот – хидраулична преса",
-   "type": null,
-   "location": "Неготино",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2024/Oglasi/Assets/Halk_Hidraulicna_Presa.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "4b96fa9191391a2d",
-   "bank": "Halkbank",
-   "title": "Подвижни предмети – возила",
-   "type": null,
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Vozila.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "97d7a437033ffc0f",
-   "bank": "Halkbank",
-   "title": "Подвижни предмети – возила",
-   "type": null,
-   "location": "Скопје",
-   "area_m2": null,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
-   "pdf_url": "https://www.halkbank.mk/content/pdf/2026/Oglasi/Assets/Halk_Vozila_2.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -726,7 +63,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -743,7 +80,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -760,7 +97,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -777,7 +114,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -794,7 +131,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -811,7 +148,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -828,7 +165,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -845,7 +182,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -862,7 +199,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -879,7 +216,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -896,7 +233,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -913,7 +250,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -930,7 +267,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -947,7 +284,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -964,7 +301,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -981,7 +318,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -998,7 +335,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1015,7 +352,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1032,7 +369,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1049,24 +386,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
-   "is_new": false
-  },
-  {
-   "id": "df931c60c8be8ecf",
-   "bank": "Komercijalna",
-   "title": "Недвижност Стан Скопје 78м2 Еур.76.075,00 Еур.89.500,00 Детали",
-   "type": "Стан",
-   "location": "Скопје",
-   "area_m2": 78.0,
-   "price": null,
-   "currency": null,
-   "deed": null,
-   "description": null,
-   "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1083,7 +403,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1100,7 +420,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1117,7 +437,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1134,7 +454,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1151,7 +471,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1168,7 +488,7 @@
    "source_url": "https://www.pcb.mk/prodazba-na-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1185,7 +505,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Deloven_objekt_vo_Tetovo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1202,7 +522,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Deloven prostor vo Struga.pdf",
    "first_seen": "2026-07-20",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1219,7 +539,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/IP.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1236,7 +556,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Imoti za prodazba.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1253,7 +573,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Semejna_kukja_vo_Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1270,7 +590,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Semejna kukja vo Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1287,7 +607,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Stan vo Skopje.pdf",
    "first_seen": "2026-07-20",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1304,7 +624,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Stan_vo_Strumica_1.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1321,7 +641,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-prostor-gazibaba-skopje.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1338,7 +658,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-prostor-magacin-prilep.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1355,7 +675,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-stanben-objekt-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1372,7 +692,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/zemjiste-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1389,7 +709,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/kuka-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1406,7 +726,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn0.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/restoran-kicevo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1423,7 +743,7 @@
    "source_url": "https://www.stb.com.mk/ostanati-sodrzini/prodazba-na-imot/prodazba-na-imot-od-khipoteka/",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1440,7 +760,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/20.5.2026_продажба_преку_извршител.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1457,7 +777,24 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/Продажба_Јуни_2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
+   "is_new": false
+  },
+  {
+   "id": "bf66058c82e2a690",
+   "bank": "TTK",
+   "title": "Закажана продажба 6.8.2026 година",
+   "type": "Стан",
+   "location": "Ѓорче Петров",
+   "area_m2": 52.0,
+   "price": 161230,
+   "currency": "EUR",
+   "deed": null,
+   "description": null,
+   "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
+   "pdf_url": "https://ttk.com.mk/CMS/Upload/Prodazba%20na%20imot/Закажана_продажба_Август_2026.pdf",
+   "first_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1474,7 +811,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/cms/Upload/Prodazba%20na%20imot/Продажба_Јуни_2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1491,7 +828,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/закажана_продажба_Октомври%20_2025.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1508,7 +845,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1525,7 +862,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1542,7 +879,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1559,7 +896,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1576,7 +913,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1593,7 +930,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": "https://www.unibank.mk/content/downloads/documents/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE-%D0%97%D0%9F%D0%A3%D0%9F%D0%A1.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1610,7 +947,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1627,7 +964,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1644,7 +981,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1661,7 +998,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1678,7 +1015,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1695,7 +1032,7 @@
    "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1712,7 +1049,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1729,7 +1066,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1746,7 +1083,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   },
   {
@@ -1763,7 +1100,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-07-27",
+   "last_seen": "2026-08-03",
    "is_new": false
   }
  ]
