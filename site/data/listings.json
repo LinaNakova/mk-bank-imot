@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-09-21T12:34:30Z",
- "count": 66,
+ "generated_at": "2026-09-28T13:33:43Z",
+ "count": 53,
  "new_count": 2,
  "banks": {
   "Alta": 2,
-  "Komercijalna": 25,
+  "Unibank": 1,
   "Halkbank": 1,
+  "Komercijalna": 25,
   "ProCredit": 1,
   "SRB": 8,
   "Sparkasse": 6,
   "Stopanska": 1,
   "TTK": 4,
-  "Unibank": 14,
   "ccbank": 4
  },
  "listings": [
   {
-   "id": "43cab65b7cea53ef",
+   "id": "8a4386a27669fa55",
    "bank": "Alta",
-   "title": "ОГЛАС ЗА ПРОДАЖБА НА ПАТНИЧКИ МОТОРНИ ВОЗИЛА",
+   "title": "Оглас за продажба возила 28.9 02.10.2026 за веб",
    "type": null,
    "location": null,
    "area_m2": null,
@@ -27,26 +27,26 @@
    "deed": null,
    "description": null,
    "source_url": "https://altabanka.com.mk/prodazba-na-imot.nspx",
-   "pdf_url": "https://altabanka.com.mk/content/pdf/prevzemenimot/2026/ОГЛАС ЗА ПРОДАЖБА НА ПАТНИЧКИ МОТОРНИ ВОЗИЛА.pdf",
-   "first_seen": "2026-09-21",
-   "last_seen": "2026-09-21",
+   "pdf_url": "https://altabanka.com.mk/content/pdf/prevzemenimot/2026/Оглас_за_продажба_возила_28.9-02.10.2026_за_веб.pdf",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
    "is_new": true
   },
   {
-   "id": "9407e18f9f5f6f75",
-   "bank": "Komercijalna",
-   "title": "Недвижност Стан Охрид 64m2 Ден.5.521.163,00 Ден.5.521.163,00 Детали",
-   "type": "Стан",
-   "location": "Охрид",
-   "area_m2": 64.0,
+   "id": "33f075beaf3e7590",
+   "bank": "Unibank",
+   "title": "Недвижен имот — Unibank",
+   "type": null,
+   "location": null,
+   "area_m2": null,
    "price": null,
    "currency": null,
    "deed": null,
    "description": null,
-   "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
+   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
    "pdf_url": null,
-   "first_seen": "2026-09-21",
-   "last_seen": "2026-09-21",
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-09-28",
    "is_new": true
   },
   {
@@ -63,7 +63,7 @@
    "source_url": "https://altabanka.com.mk/prodazba-na-imot.nspx",
    "pdf_url": "https://altabanka.com.mk/content/pdf/prevzemenimot/2026/Оглас  за продажба на сопствен и преземен недвижен имот и преземени подвижни предмети  24.4.2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -80,7 +80,7 @@
    "source_url": "https://www.halkbank.mk/prodazba-na-imot-na-halkbank.nspx",
    "pdf_url": null,
    "first_seen": "2026-08-03",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -97,7 +97,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -114,7 +114,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -131,7 +131,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -148,7 +148,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -165,7 +165,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -182,7 +182,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -199,7 +199,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -216,7 +216,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -233,7 +233,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -250,7 +250,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -267,7 +267,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -284,7 +284,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -301,7 +301,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -318,7 +318,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -335,7 +335,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -352,7 +352,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -369,7 +369,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -386,7 +386,24 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
+   "is_new": false
+  },
+  {
+   "id": "9407e18f9f5f6f75",
+   "bank": "Komercijalna",
+   "title": "Недвижност Стан Охрид 64m2 Ден.5.521.163,00 Ден.5.521.163,00 Детали",
+   "type": "Стан",
+   "location": "Охрид",
+   "area_m2": 64.0,
+   "price": null,
+   "currency": null,
+   "deed": null,
+   "description": null,
+   "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
+   "pdf_url": null,
+   "first_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -403,7 +420,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -420,7 +437,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -437,7 +454,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -454,7 +471,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -471,7 +488,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -488,7 +505,7 @@
    "source_url": "https://www2.kb.mk/ImotPrisilnaNaplata.aspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -505,7 +522,7 @@
    "source_url": "https://www.pcb.mk/prodazba-na-imot.nspx",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -522,7 +539,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Deloven_objekt_vo_Tetovo.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -539,7 +556,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Deloven prostor vo Struga.pdf",
    "first_seen": "2026-07-20",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -556,7 +573,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/IP.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -573,7 +590,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Imoti za prodazba.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -590,7 +607,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Semejna_kukja_vo_Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -607,7 +624,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Semejna kukja vo Kavadarci.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -624,7 +641,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Stan vo Skopje.pdf",
    "first_seen": "2026-07-20",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -641,7 +658,7 @@
    "source_url": "https://www.srb.mk/ProdazbaImot?Cat=ProdazbaImot",
    "pdf_url": "https://www.srb.mk/file/prodazba/Stan_vo_Strumica_1.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -658,7 +675,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-prostor-gazibaba-skopje.pdf",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -675,7 +692,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-prostor-magacin-prilep.pdf",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -692,7 +709,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/deloven-stanben-objekt-kicevo.pdf",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -709,7 +726,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/zemjiste-kicevo.pdf",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -726,7 +743,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/kuka-kicevo.pdf",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -743,7 +760,7 @@
    "source_url": "https://www.sparkasse.mk/mk/za-nas/prodazba-na-imot",
    "pdf_url": "https://cdn.erstegroup.com/content/dam/mk/spkmk/www_sparkasse_mk/prodazba-na-imot-2026/restoran-kicevo.pdf",
    "first_seen": "2026-08-31",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -760,7 +777,7 @@
    "source_url": "https://www.stb.com.mk/ostanati-sodrzini/prodazba-na-imot/prodazba-na-imot-od-khipoteka/",
    "pdf_url": null,
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -777,7 +794,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/20.5.2026_продажба_преку_извршител.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -794,7 +811,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/Закажана_продажба_Септември_2026.pdf",
    "first_seen": "2026-08-24",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -811,7 +828,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/cms/Upload/Prodazba%20na%20imot/Продажба_Јуни_2026.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -828,245 +845,7 @@
    "source_url": "https://ttk.com.mk/Web/%D0%97%D0%90_%D0%91%D0%90%D0%9D%D0%9A%D0%90%D0%A2%D0%90/%D0%98%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%BE%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD_%D0%B8%D0%BC%D0%BE%D1%82_%D0%B8_%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B0.aspx",
    "pdf_url": "https://ttk.com.mk/CMS/Upload/PDF/Nedvizen%20imot/Zakazani%20prodazbi/закажана_продажба_Октомври%20_2025.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "b3a0b25b8cb73ce3",
-   "bank": "Unibank",
-   "title": "Деловен простор во градба со земјиште во с.Градско Балдовци, Струмица",
-   "type": "Деловен простор",
-   "location": "Градско Балдовци",
-   "area_m2": 2742.0,
-   "price": null,
-   "currency": null,
-   "deed": "1202 за КО Градско Балдовци Листа за прдбележување на градба: 15856 за КО Градско Балдовци",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "252fd89547c99fc6",
-   "bank": "Unibank",
-   "title": "ЗДеловен објект во с.Корошишта, Струга Индивидуален станбен објект-куќа во с.Корошишта, Струга",
-   "type": "Куќа",
-   "location": "с.Корошишта",
-   "area_m2": 721.0,
-   "price": null,
-   "currency": null,
-   "deed": "100051 за КО Корошишта Џепин / 448 за КО Корошишта Џепин",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "9df88bef1d6c26ab",
-   "bank": "Unibank",
-   "title": "Земјиште-шуми во Берово Куќа со деловен простор во Берово",
-   "type": "Куќа",
-   "location": "Берово",
-   "area_m2": 325.0,
-   "price": null,
-   "currency": null,
-   "deed": "1621 за КО Берово",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "b4106748dbcc348b",
-   "bank": "Unibank",
-   "title": "Индивидуален станбен објект-куќа во Скопје",
-   "type": "Куќа",
-   "location": "Г.Радомир",
-   "area_m2": 82.0,
-   "price": null,
-   "currency": null,
-   "deed": "57018 за КО Кисела Вода 2 и 3496 за КО Кисела Вода 2",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "48645981d8f137a1",
-   "bank": "Unibank",
-   "title": "Магацин во с.Октиси, Струга",
-   "type": "Магацин",
-   "location": "с.Октиси",
-   "area_m2": 640.0,
-   "price": null,
-   "currency": null,
-   "deed": "2900 за КО Октиси",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": "https://www.unibank.mk/content/downloads/documents/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B0-%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%BD%D0%BE-%D0%97%D0%9F%D0%A3%D0%9F%D0%A1.pdf",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "a2f41c7443a96530",
-   "bank": "Unibank",
-   "title": "Магацин во с.Октиси, Струга",
-   "type": "Магацин",
-   "location": "с.Октиси",
-   "area_m2": 640.0,
-   "price": null,
-   "currency": null,
-   "deed": "2900 за КО Октиси",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "e80b364b5184bddd",
-   "bank": "Unibank",
-   "title": "деловен простор во Гевгелија",
-   "type": "Деловен простор",
-   "location": "Ливади",
-   "area_m2": 1298.0,
-   "price": null,
-   "currency": null,
-   "deed": "102920 за КО Гевгелија",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "461d228018fca856",
-   "bank": "Unibank",
-   "title": "деловен простор во Ресен",
-   "type": "Деловен простор",
-   "location": "ул.Ј.ЈОСИФОВСКИ",
-   "area_m2": 239.0,
-   "price": null,
-   "currency": null,
-   "deed": "56407 за КО Ресен",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "4a95dfca81671d22",
-   "bank": "Unibank",
-   "title": "земјиште во с.Сушица, Струмица",
-   "type": "Земјиште",
-   "location": "Број на Имотен лист: 2083 за КО Сушица",
-   "area_m2": 17020.0,
-   "price": null,
-   "currency": null,
-   "deed": "2083 за КО Сушица",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "85709fdce6c7c58f",
-   "bank": "Unibank",
-   "title": "земјиште-нива",
-   "type": "Земјиште",
-   "location": "в.м.Тренкалк",
-   "area_m2": 1520.0,
-   "price": null,
-   "currency": null,
-   "deed": "579 за КО Свидовица",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "2676051c176d5b32",
-   "bank": "Unibank",
-   "title": "земјиште-нива во с.Куклиш",
-   "type": "Земјиште",
-   "location": "в.м.Балабаница и в.м.Шамак",
-   "area_m2": 1485.0,
-   "price": null,
-   "currency": null,
-   "deed": "16385 за КО Куклиш-вонград",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "f22671934df99a2d",
-   "bank": "Unibank",
-   "title": "куќа во Скопје",
-   "type": "Куќа",
-   "location": "ул. П.Манџуков, Бутел",
-   "area_m2": 374.0,
-   "price": null,
-   "currency": null,
-   "deed": "11813 за КО Бутел",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "65ebb2ecb52cf727",
-   "bank": "Unibank",
-   "title": "куќа во с.Горно Седларце, Тетово",
-   "type": "Куќа",
-   "location": "с.Горно Седларце",
-   "area_m2": 166.0,
-   "price": null,
-   "currency": null,
-   "deed": "976 за КО ГОРНО СЕДЛАРЦЕ и 489 за ГОРНО СЕДЛАРЦЕ",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
-   "id": "8f706919e99a03b5",
-   "bank": "Unibank",
-   "title": "куќа со земјиште во с.Лопате, Куманово",
-   "type": "Куќа",
-   "location": "Лопте",
-   "area_m2": 210.0,
-   "price": null,
-   "currency": null,
-   "deed": "100089 за КО ЛОПАТЕ",
-   "description": null,
-   "source_url": "https://www.unibank.mk/nedvizen-imot.nspx",
-   "pdf_url": null,
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -1083,7 +862,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -1100,7 +879,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -1117,7 +896,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   },
   {
@@ -1134,7 +913,7 @@
    "source_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "pdf_url": "https://ccbank.mk/Upload/Dokumenti/130311%D0%BF%D0%B5%D1%82%D0%BE%D0%BA,12%D1%98%D0%B0%D0%BD%D1%83%D0%B0%D1%80%D0%B82024Copy%20of%20%D0%98%D0%B7%D0%B2%D0%B5%D1%88%D1%82%D0%B0%D1%98%20%D0%B7%D0%B0%20%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%20%D0%B8%D0%BC%D0%BE%D1%82%20%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%82%20%D0%B7%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B1%D0%B0%2031.12.2023.pdf",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-09-21",
+   "last_seen": "2026-09-28",
    "is_new": false
   }
  ]
